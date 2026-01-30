@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Muhammad Bilal Ibrahim
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer+%26+AI+Automation+Specialist;C+++|+MERN+|+Flutter+Developer;AI+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;C+++|+MERN+|+Flutter+Developer;AI+Automation+Specialist" alt="Typing SVG" />
 </a>
 
 <br/>
