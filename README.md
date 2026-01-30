@@ -86,9 +86,9 @@
   <p>
     <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" height="48" />
     <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,visualstudio,androidstudio" />
-    <img src="https://www.deviantart.com/thepi7on/art/Alternative-Dev-C-Icon-256x256-648128372" height="48" />
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6796fe47-907a-4f6f-8075-8722ea4708d1/dapvn1w-76f47a94-188c-4a3e-b3bb-fc06c0d93566.png" height="48" />
     <img src="https://skillicons.dev/icons?i=postman,figma" />
-    <img src="https://hackceleration.com/n8n-troubleshooting/" height="48" />
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/n8n-color.png" height="48" />
   </p>
   
   <p>
