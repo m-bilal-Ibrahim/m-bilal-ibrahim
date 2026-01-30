@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://YOUR_PORTFOLIO_LINK">
+<a href="#">
   <img src="https://img.shields.io/badge/MY_PORTFOLIO-00599C?style=for-the-badge&logo=about.me&logoColor=white" />
 </a>
 
@@ -21,7 +21,7 @@
 - 🎓 BS IT student at focused on **Problem Solving** & **Continuous Learning**
 - 🔭 Focused on **AI Automation, Web Dev** and **Flutter App Dev**
 - 💻 Skilled in **Flutter, MERN, N8N** and **ASP.NET Core**
-- ⚡ Continuously learning Python, JS & React.
+- ⚡ Continuously learning Python, JS, React and new technologies.
 - 🧠 Solving problems on (https://leetcode.com/u/m-bilal-ibrahim)
 - 🚀 Always open to collaboration and innovative ideas!
 
@@ -35,7 +35,7 @@
   <h4>💻 Programming Languages</h4>
   
   <p>
-    <img src="https://skillicons.dev/icons?i=cpp,flutter,dart,cs" />
+    <img src="https://skillicons.dev/icons?i=cpp,dart,cs" />
   </p>
   
   <p>
@@ -67,7 +67,8 @@
   <h4>☁️ Backend & Database</h4>
 
   <p>
-    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase,mongo,sql" />
+    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase,mongo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="48" />
   </p>
 
   <p>
@@ -83,7 +84,11 @@
   <h4>🛠 Tools & Platforms</h4>
   
   <p>
-    <img src="https://skillicons.dev/icons?i=jira,git,github,docker,jenkins,vscode,visualstudio,androidstudio,,devcpp,postman,figma,n8n" />
+    <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" height="48" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,visualstudio,androidstudio" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/4/4a/Dev-C%2B%2B_Logo.png" height="48" />
+    <img src="https://skillicons.dev/icons?i=postman,figma" />
+    <img src="https://seeklogo.com/images/N/n8n-logo-6C3E2C98E4-seeklogo.com.png" height="48" />
   </p>
   
   <p>
