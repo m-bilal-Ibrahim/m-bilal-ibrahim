@@ -111,8 +111,7 @@
 ### 📈 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-bilal-ibrahim&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-bilal-ibrahim&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-bilal-ibrahim&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/>
   
   <br/>
   
