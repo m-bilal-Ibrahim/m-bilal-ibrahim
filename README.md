@@ -51,7 +51,7 @@
   <h4>🌐 App & Web Technologies</h4>
 
   <p>
-    <img src="https://skillicons.dev/icons?i=flutter,html,css,js,bootstrap,tailwind,react,angular" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dart,bootstrap,tailwind,flutter,react,angular" />
   </p>
 
   <p>
@@ -112,9 +112,9 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-bilal-ibrahim&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-bilal-ibrahim&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-bilal-ibrahim&layout=compact&theme=dark&hide_border=true" height="150" />
   
-  <br/><br/>
+  <br/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-bilal-ibrahim&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
 </div>
