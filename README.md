@@ -64,7 +64,7 @@
 ---
 
 <div align="center">
-  <h4>☁️ Backend & Database</h4>
+  <h4>☁️ Backend & Databases</h4>
 
   <p>
     <img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase,mongo" />
@@ -86,9 +86,9 @@
   <p>
     <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" height="48" />
     <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,visualstudio,androidstudio" />
-    <img src="https://upload.wikimedia.org/wikipedia/en/4/4a/Dev-C%2B%2B_Logo.png" height="48" />
+    <img src="https://www.deviantart.com/thepi7on/art/Alternative-Dev-C-Icon-256x256-648128372" height="48" />
     <img src="https://skillicons.dev/icons?i=postman,figma" />
-    <img src="https://seeklogo.com/images/N/n8n-logo-6C3E2C98E4-seeklogo.com.png" height="48" />
+    <img src="https://hackceleration.com/n8n-troubleshooting/" height="48" />
   </p>
   
   <p>
